@@ -13,7 +13,7 @@ A. Set-up environments.
 Python 3 installed and a programming environment set up. 
 You can complete this for your machine with our previous repo tutorials:
 
-https://github.com/vi-u/20-Intelligent-Chatbot-in-Python-Using-the-spaCy-NLP-Library-Environment.git
+https://github.com/Just-Vit/20-Intelligent-Chatbot-in-Python-Using-the-spaCy-NLP-Library-Environment.git
 
 B. Get an API key for OpenWeather.
 
